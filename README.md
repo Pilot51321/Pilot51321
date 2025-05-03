@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning something new everyday, being creative and finding simpler solutions for complexity
 - 🌱 I’m currently learning to code Python
 - 💞️ I’m looking to collaborate on electrical engineering hardware and software projects  
-- 📫 How to reach me pirmin321@gmail.com
+- 📫 How to reach me 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love old ThinkPads
 
